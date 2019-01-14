@@ -27,7 +27,3 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
-
-# configure kramdown
-kramdown:
-  parse_block_html: true
