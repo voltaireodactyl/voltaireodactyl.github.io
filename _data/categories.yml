@@ -1,8 +1,11 @@
 - slug: posts
-  name: posts
+  name: Posts
 
 - slug: tools
-  name: tools
+  name: Tools
 
 - slug: photo
-  name: photo
+  name: Photo
+
+- slug: microblog
+  name: Microblog

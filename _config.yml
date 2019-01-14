@@ -27,3 +27,9 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+# Additional Collections Settings
+collections:
+  microblog:
+    output: true
+    permalink: /microblog/:year/:month/:slug/
