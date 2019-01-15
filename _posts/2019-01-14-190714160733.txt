@@ -1,0 +1,9 @@
+---
+layout: microblogpost
+date: '2019-01-14 16:07'
+title: ''
+slug: '190714160733'
+lang: en
+---
+Checking shortcuts
+
