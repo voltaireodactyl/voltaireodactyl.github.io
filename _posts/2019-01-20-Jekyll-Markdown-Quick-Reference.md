@@ -2,9 +2,7 @@
 #Jekyll Markdown Quick Reference
 
 
-####Write in simply awesome `markdown`
 
-```markdown
 layout: post
 title: Markdown Style Guide
 ---
