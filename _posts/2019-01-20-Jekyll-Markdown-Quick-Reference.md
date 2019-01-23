@@ -1,8 +1,3 @@
-
-#Jekyll Markdown Quick Reference
-
-
-
 layout: post
 title: Markdown Style Guide
 ---

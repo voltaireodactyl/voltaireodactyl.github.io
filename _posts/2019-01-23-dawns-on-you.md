@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Hall of Fame"
-subtitle: ""
-date:   2019-01-23 13:48:00
-categories: [post]
----
+# Hall of Fame
 
 >“It dawns on you
 that it’s true
