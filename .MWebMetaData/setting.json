@@ -4,7 +4,7 @@
   "autoUploadInsertedImageKey" : "voltaireodactyl-https:\/\/voltaireodactyl.imgur.com\/",
   "autoUploadInsertedImage" : false,
   "folderType" : 11,
-  "mediaFloder" : "\/media\/",
+  "mediaFloder" : "media",
   "orderBy" : 0,
   "newlinesToBR" : 1
 }
