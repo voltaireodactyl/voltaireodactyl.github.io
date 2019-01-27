@@ -1,15 +1,12 @@
 ---
-layout: page
-title:  Microblog
-permalink: /microblog/
+layout: default
 ---
-<section class="microblog-posts">
-  {% for post in site.microblog reversed %}
-    <div class="microblog-post">
-      {{ post.content }}
-      <footer class="microblog-post__footer">
-        <small><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ post.url }}" title="Permalink to Microblog post">{{ post.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></a></small>
-      </footer>
-    </div>
-  {% endfor %}
-</section>
+
+{% include microblogpost/title.html %}
+
+<div class="microblog-post--single">
+  {{ content }}
+  <footer class="microblog-post__footer">
+    <small><time datetime="{{ page.date | date_to_xmlschema }}"><a href="{{ page.url }}" title="Permalink to Microblog post">{{ page.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></a> by Timothy B. Smith</small>
+  </footer>
+</div>
